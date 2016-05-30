@@ -1,0 +1,1 @@
+./configure --with-features=huge --enable-cscope --enable-fontset --enable-multibyte --enable-perlinterp --enable-rubyinterp --enable-pythoninterp --enable-luainterp --with-lua-prefix=/usr/local/bin/lua
